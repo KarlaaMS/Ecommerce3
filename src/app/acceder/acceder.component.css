@@ -1,0 +1,14 @@
+.login-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh; /* Ocupa la altura completa de la vista */
+  }
+  
+  mat-card {
+    width: 300px; /* Ajusta el ancho del card */
+    height: 300px;
+    justify-content: center;
+    align-items: center;
+  }
+  
